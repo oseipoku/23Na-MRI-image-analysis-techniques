@@ -9,7 +9,7 @@ Software : MATLAB R2018b
 
 
 
-To ensure accurate quantitative 23Na-MRI, RF field (B1)  inhomogeneity  which has influence on the sodium signal intensity should be computed and corrected. 
+To ensure accurate quantitative 23Na-MRI, the inhomogeneities of the Radiofrequency (RF) field also known as B1 which has influence on the sodium signal intensity should be computed and corrected. 
 
 These codes map the B1 field distribution of the RF field at the sodium frequency using the double angle method (DAM) where two sodium images (I1 and I2) are acquired with flip angles I1 = α = 45°  and I2 = 2α = 90° from a large phantom that fills the whole RF coil volume and contains a known standard sodium concentration.
 
