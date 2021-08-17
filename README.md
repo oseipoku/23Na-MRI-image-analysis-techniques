@@ -2,9 +2,13 @@ B1 mapping for 23Na-MRI signal using the double angle method
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Author   : Dr. Linda Osei Poku
+
 Date     : 25 June, 2021
+
 Version  : 1.0
+
 Software : MATLAB R2018b
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
